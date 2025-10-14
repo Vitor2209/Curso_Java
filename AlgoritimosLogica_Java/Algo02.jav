@@ -9,17 +9,17 @@ public class Algo02 {
           Scanner teclado = new Scanner(System.in);
 
           //Entradas
-          System.out.print("Informe a quantidade minima: ");
+          System.out.print("Informe a quantidade mínima: ");
           quantidade_minima = teclado.nextInt();
 
-          System.out.print("Informe a quantidade maxima: ");
+          System.out.print("Informe a quantidade máxima: ");
           quantidade_maxima = teclado.nextInt();
 
           //Processamento
           estoque_medio = (quantidade_minima + quantidade_maxima) / 2;
 
           //Saida 
-          System.out.print("O estoque medio " + estoque_medio);
+          System.out.print("O estoque médio " + estoque_medio);
 
           teclado.close();
           

@@ -9,17 +9,17 @@ public class Algo03 {
        Scanner teclado = new Scanner(System.in);
 
        //Entradas 
-       System.out.println("Informe o primeiro numero: ");
+       System.out.println("Informe o primeiro número: ");
        num1 = teclado.nextInt();
 
-        System.out.println("Informe o segundo numero: ");
+        System.out.println("Informe o segundo número: ");
        num2 = teclado.nextInt();
 
        //Processamento
        soma = (num1 + num2);
 
        //saida
-       System.out.println("A soma e " + soma);
+       System.out.println("A soma é " + soma);
 
        teclado.close();
 
