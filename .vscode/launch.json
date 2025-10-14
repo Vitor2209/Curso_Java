@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Algo03",
+            "request": "launch",
+            "mainClass": "Algo03",
+            "projectName": "Curso_Java_a17dc19"
+        },
+        {
+            "type": "java",
+            "name": "Algo01",
+            "request": "launch",
+            "mainClass": "Algo01",
+            "projectName": "Curso_Java_a17dc19"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -14,7 +28,7 @@
             "type": "java",
             "name": "Algo01",
             "request": "launch",
-            "mainClass": "Algo01",
+            "mainClass": "Algo02",
             "projectName": "Curso_Java_a17dc19"
         }
     ]

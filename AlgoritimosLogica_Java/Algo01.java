@@ -7,9 +7,9 @@ public class Algo01 {
         Scanner teclado = new Scanner(System.in);
             
         //Entradas 
-        System.out.println("Informe o primeiro numero");
+        System.out.println("Informe o primeiro número");
         num1 = teclado.nextInt();
-        System.out.println("Informe o segundo numero");
+        System.out.println("Informe o segundo número");
         num2 = teclado.nextInt();
 
         //Processamento 
@@ -17,9 +17,9 @@ public class Algo01 {
         multiplicacao = soma * num1;
 
         //Saida 
-        System.out.println("O resultado da multiplicacao e " + multiplicacao);
+        System.out.println("resultado da multiplicação é " + multiplicacao);
 
-        teclado.close();
+        teclado.close(); 
 
     }
 }
