@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Algo05",
+            "request": "launch",
+            "mainClass": "Algo05",
+            "projectName": "Curso_Java_f3811f3b"
+        },
+        {
+            "type": "java",
             "name": "HellowWord",
             "request": "launch",
             "mainClass": "javaCursoEmVideo.HellowWord",
