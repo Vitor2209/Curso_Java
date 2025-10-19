@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TiposPrimitivos",
+            "request": "launch",
+            "mainClass": "javaCursoEmVideo.TiposPrimitivos",
+            "projectName": "Curso_Java_f3811f3b"
+        },
+        {
+            "type": "java",
+            "name": "Algo09",
+            "request": "launch",
+            "mainClass": "Algo09",
+            "projectName": "Curso_Java_f3811f3b"
+        },
+        {
+            "type": "java",
+            "name": "Algo08",
+            "request": "launch",
+            "mainClass": "Algo08",
+            "projectName": "Curso_Java_f3811f3b"
+        },
+        {
+            "type": "java",
+            "name": "Algo07",
+            "request": "launch",
+            "mainClass": "Algo07",
+            "projectName": "Curso_Java_f3811f3b"
+        },
+        {
+            "type": "java",
+            "name": "Algo06",
+            "request": "launch",
+            "mainClass": "Algo06",
+            "projectName": "Curso_Java_f3811f3b"
+        },
+        {
+            "type": "java",
             "name": "Algo05",
             "request": "launch",
             "mainClass": "Algo05",
